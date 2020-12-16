@@ -1,0 +1,11 @@
+bert-serving-client==1.10.0
+bert-serving-server==1.10.0
+nltk==3.4.5
+gensim==3.8.1
+pickleshare==0.7.5
+pandas==0.25.3
+numpy==1.18.4
+lda==1.1.0
+brisk==0.1
+numba==0.47.0
+scipy==1.4.1
