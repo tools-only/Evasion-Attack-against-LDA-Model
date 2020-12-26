@@ -9,7 +9,7 @@ Link : https://arxiv.org/abs/2012.04864
 
 ### Instructions:
 
-## Installation
+#### Installation
 
 /Library/requirements.txt : the library for EvaLDA.
 
@@ -20,7 +20,7 @@ EvaLDA.ipynb is the code.
 
 Bert is needed, see https://github.com/hanxiao/bert-as-service/blob/master/README.md for more detail.
 
-## Run the code
+#### Run the code
 
 
 ### Cite
