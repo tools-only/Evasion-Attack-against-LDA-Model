@@ -21,7 +21,11 @@ EvaLDA.ipynb is the code.
 Bert is needed, see https://github.com/hanxiao/bert-as-service/blob/master/README.md for more detail.
 
 #### Run the code
-
+1. Configure the environment according to the Library/requirements.txt.
+2. Download Library/gensim.rar, unzip to the local python third-party library path, replace the original Gensim.
+3. Download /dataset/ , you may need to manually modify the data and model loading in the code (EvaLDA.ipynb) according to the download path.
+4. Before run EvaLDA.ipynb, you should first open Bert server(see the bert link above).
+5. Run the code.
 
 ### Cite
 
