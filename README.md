@@ -24,7 +24,7 @@ Bert is needed, see https://github.com/hanxiao/bert-as-service/blob/master/READM
 1. Configure the environment according to the Library/requirements.txt.
 2. Download Library/gensim.rar, unzip to the local python third-party library path, replace the original Gensim.
 3. Download /dataset/ , you may need to manually modify the data and model loading in the code (EvaLDA.ipynb) according to the download path.
-4. Download word2vec model: https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.vec , put it in datasets/
+4. Download word2vec model: https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.vec , put it in dataset/
 5. Before run EvaLDA.ipynb, you should first open Bert server(see the bert link above).
 6. Run the code.
 
